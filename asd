@@ -26,7 +26,7 @@
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(67, 181, 129);
+  --main-theme-color: rgb(0, 0, 0);
 
   /*
     Main Theme Transparency
@@ -78,7 +78,7 @@
     Change the unread server animation.
     Replace it with "none" in order to remove any animations and use the main color instead
   */
-  --unread-server-animation: rainbow;
+  --unread-server-animation: none;
 
   /*
     Video / Screen share buttons
