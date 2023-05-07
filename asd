@@ -11,7 +11,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://images.wallpapersden.com/image/download/cool-asta-black-clover_bGptaWeUmZqaraWkpJRmbmdlrWZlbWU.jpg);
+  --theme-background-image: url(https://i.imgur.com/B1a32ox.jpg);
 
   /*
     Main Theme Color
